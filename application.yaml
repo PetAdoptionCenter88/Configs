@@ -1,4 +1,4 @@
-mongo-uri: "mongodb://root:qwerty@localhost:27017/"
+mongo-uri: "mongodb://root:qwerty@localhost:27017"
 service:
   invalid:
     species:
