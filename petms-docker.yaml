@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://root:qwerty@mongodb:27017/PetDB?authSource=admin
+      uri: mongodb://root:qwerty@mongodb:27018/PetDB?authSource=admin
