@@ -1,4 +1,4 @@
 spring:
-  docker:
-    compose:
-      enabled: true
+  data:
+    mongodb:
+      uri: mongodb://root:qwerty@localhost:27017/PetDB?authSource=admin
