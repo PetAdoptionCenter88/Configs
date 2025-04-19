@@ -1,0 +1,9 @@
+spring:
+  docker:
+    compose:
+      enabled: true
+
+service:
+  invalid:
+    species:
+      breed: "Breed is not Compatible with Species"
