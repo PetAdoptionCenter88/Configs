@@ -1,3 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: ${mongo-uri}/UserDB?authSource=admin
 service:
   email:
     already:
