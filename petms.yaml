@@ -2,3 +2,7 @@ spring:
   data:
     mongodb:
       uri: ${mongo-uri}/PetDB?authSource=admin
+service:
+  invalid:
+    species:
+      breed: "Breed is not Compatible with Species"
