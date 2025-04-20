@@ -16,3 +16,16 @@ service:
   password:
     not:
       match: "Incorrect password. Please try again."
+user:
+  registration:
+    success: "User registered successfully"
+
+shelter:
+  worker:
+    registration:
+      success: "Shelter worker registered successfully"
+
+success:
+  password:
+    update: "Password updated successfully"
+
