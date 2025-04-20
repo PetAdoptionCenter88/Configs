@@ -1,0 +1,14 @@
+service:
+  email:
+    already:
+      used: "Email is already registered as a {role}. Please use a different email."
+    notfound: "No account found with the provided email for role {role}."
+
+  phone:
+    already:
+      used: "Phone number is already registered as a {role}. Please use a different phone number."
+    notfound: "No account found with the provided phone number for role {role}."
+
+  password:
+    not:
+      match: "Incorrect password. Please try again."
