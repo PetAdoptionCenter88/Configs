@@ -1,5 +1,1 @@
 mongo-uri: "mongodb://root:qwerty@localhost:27017"
-service:
-  invalid:
-    species:
-      breed: "Breed is not Compatible with Species"
