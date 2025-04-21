@@ -1,3 +1,3 @@
-mongo-uri: "mongodb://root:qwerty@localhost:27017"
+mongo-uri: "mongodb://root:qwerty@mongo-driver:27017"
 General:
- Exception_Message: "An unexpected error occurred. Refer to the service logs for further information."
+ Exception_Message: "Oops! Something went wrong. Our team is looking into it. Please check the logs if you're troubleshooting."
