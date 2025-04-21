@@ -1,1 +1,14 @@
+spring:
+  data:
+    mongodb:
+      uri: ${mongo-uri}/PetDB?authSource=admin
 
+PetMSService:
+  Invalid:
+    Species:
+      Breed: "The selected breed is not compatible with the chosen species."
+
+PetMSApi:
+  Pet:
+    Added:
+      Successful: "Pet added successfully! Pet ID: "
