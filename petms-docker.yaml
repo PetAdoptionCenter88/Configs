@@ -1,4 +1,1 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://root:qwerty@mongo-driver:27017/PetDB?authSource=admin
+
